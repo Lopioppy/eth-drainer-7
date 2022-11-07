@@ -5,8 +5,8 @@
 
 <b> PRICING: </b> <br>
 1 Week - 0.15 ETH <br>
-1 Month - 0.25 ETH <br>
-Lifetime - 1.15 ETH <br>
+1 Month - 0.40 ETH <br>
+Lifetime - 1.50 ETH <br>
 
 I WILL LEAVE A SAMPLE TEMPLATE OF WHAT YOU CAN BUY, PLEASE MESSAGE ME ON TELEGRAM https://t.me/+GkQynos7Hi8yNjFk 
 
